@@ -1,0 +1,5 @@
+Course Information
+ID		Name		Credit
+1		ENG		4.0
+2		KOR		4.0
+3		JAP		4.0

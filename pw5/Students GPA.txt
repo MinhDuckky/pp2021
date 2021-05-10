@@ -1,0 +1,4 @@
+Student GPA
+ID		Name		GPA
+2		CHI		15.0
+1		MINH		14.0

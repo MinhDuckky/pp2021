@@ -1,0 +1,16 @@
+Student Mark
+ID		Name		Course		Mark		Credit
+1		MINH		ENG		16.0		4.0
+2		CHI		ENG		17.0		4.0
+
+Student Mark
+ID		Name		Course		Mark		Credit
+1		MINH		KOR		14.0		4.0
+2		CHI		KOR		15.0		4.0
+
+Student Mark
+ID		Name		Course		Mark		Credit
+1		MINH		JAP		12.0		4.0
+2		CHI		JAP		13.0		4.0
+
+

@@ -1,0 +1,4 @@
+Student Information
+ID		Name		DoB
+1		MINH		25/12
+2		CHI		28/7
